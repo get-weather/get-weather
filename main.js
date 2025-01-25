@@ -1,6 +1,6 @@
 'use strict';
 
-const WEATHERBIT_API_KEY = '4b2c7834b42a4279adb9aa045f9173af';
+const WEATHERBIT_API_KEY = 'd61579f646104092b6e0bc0a7d0a2596';
 let searchBtn = document.getElementById("search-btn");
 let cityInput = document.getElementById('city-input');
 let mainTodayBlock = document.getElementById('main-today');
